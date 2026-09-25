@@ -1,7 +1,5 @@
-<!-- STREAMING_CHUNK:Designing dynamic neon header and typing SVG... -->
 <div align="center">
 
-<!-- Animated Header Asset: Futuristic Abstract Tech Grid -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Banner" />
 
 <br/>
