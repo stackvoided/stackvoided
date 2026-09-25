@@ -65,17 +65,10 @@ int main() {
 
 <br/>
 
-<br/><br/>
-
-<a href="https://github.com/aamirafridi/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=synthwave&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
-</a>
-
 </div>
 
 <br/>
 
-<!-- STREAMING_CHUNK:Adding collapsible detail sections for architecture and workflow... -->
 ## 🧬 Architectural Focus & Workflow
 
 <details>
