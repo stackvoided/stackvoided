@@ -125,26 +125,3 @@ int main() {
 </div>
 
 <br/>
-
-## 🌐 Connect & Dispatch
-
-<div align="center">
-
-<a href="https://t.me/YOUR_TELEGRAM">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-&nbsp;
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<br/><br/>
-
-<!-- Footer Animated Tech GIF Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="25px" alt="Footer Line" />
-
-</div>
