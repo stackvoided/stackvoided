@@ -4,7 +4,6 @@
 
 <br/>
 
-<!-- Neon Dynamic Typing Effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=600&height=50&lines=%3C%2F%3E+Software+Engineer+%26+Systems+Architect;C%2B%2B+%7C+Go+%7C+Java+%7C+Kotlin;Python+%7C+PHP+%7C+JavaScript;Building+High-Performance+%26+Scalable+Core" alt="Typing SVG" />
 </a>
@@ -97,8 +96,6 @@ int main() {
 
 <br/>
 
-<!-- STREAMING_CHUNK:Styling footer and contact connections with glow accents... -->
-<!-- Glowing Divider -->
 <div align="center">
 <img src="https://i.imgur.com/d2udyBO.png" width="100%" height="3px" alt="Divider" />
 </div>
