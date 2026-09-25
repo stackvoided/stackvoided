@@ -65,18 +65,6 @@ int main() {
 
 <br/>
 
-<!-- STREAMING_CHUNK:Integrating dynamic animated GitHub statistics cards... -->
-## 📊 Analytics & Activity Pulse
-
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-</a>
-
 <br/><br/>
 
 <a href="https://github.com/aamirafridi/github-readme-streak-stats">
